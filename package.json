@@ -1,0 +1,26 @@
+{
+  "name": "file-metadata-ms",
+  "version": "1.0.0",
+  "description": "The FCC File Metadata Microservice challenge",
+  "main": "index.js",
+  "engines": {
+    "node": "4.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ophid1an/fcc-file-metadata-ms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ophid1an/fcc-file-metadata-ms/issues"
+  },
+  "homepage": "https://github.com/ophid1an/fcc-file-metadata-ms#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
